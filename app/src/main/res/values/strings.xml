@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RickMortyVerse</string>
+
+    <string name="name">Name</string>
+    <string name="new_character">Create New Character</string>
+
+    <string name="species">Species</string>
+    <string name="gender">Gender</string>
+    <string name="select_image">Select Image</string>
+    <string name="save_character">Save Character</string>
+    <string name="error_required_fields">All fields are required!</string>
+    <string name="character_image_description">Selected Character Image</string>
+    <string name="character_saved_successfully">Character saved successfully!</string>
+    <string name="last_known_location">Last Known Location</string>
+    <string name="no_characters_message">No characters available</string>
+    <string name="explore_characters">Explore Characters</string>
+    <string name="filter_by_name">Filter by Name</string>
+    <string name="clear">Clear</string>
+    <string name="no_characters_found">No characters found</string>
+    <string name="error_loading_characters">Error loading characters</string>
+
+</resources>
